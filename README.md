@@ -4,7 +4,7 @@ DAZZLING CHRISTMAS COUPONS December 5th through 25th 2018
 Wishing you a happy Christmas. Mysterious gifts will be given away to 10,000 lucky PCBWayers  
 https://www.pcbway.com/activity/christmascoupons.aspx  
 
-# See Video #128 at https://www.youtube.com/ralphbacon  
+# See Video #128 at https://www.youtube.com/ralphbacon
 (Direct link to video: https://youtu.be/KJpfw9ysWQU)
 
 Reinforce good behaviour with a bark detector and deterrent
@@ -27,7 +27,7 @@ I'm tempted to include an LCD screen that displays messages so that we know what
 
 I went through quite a few audio detection options so the links are all below.
 
-LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     
+# LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     
 
 MAX446 data sheet (microphone preamplifier)  
 https://cdn-shop.adafruit.com/datasheets/MAX4465-MAX4469.pdf
