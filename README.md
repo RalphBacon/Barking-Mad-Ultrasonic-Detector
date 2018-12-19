@@ -29,6 +29,12 @@ I went through quite a few audio detection options so the links are all below.
 
 # LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     LINKS     
 
+LM386 amplifier module from HiLetGo (Amazon UK link but available everywhere)
+https://www.amazon.co.uk/gp/product/B0797DK2G1
+
+Microphone preamplifier module from HiLetGo (Amazon UK link but available everywhere)
+https://www.amazon.co.uk/gp/product/B07DR5B5Z1
+
 MAX446 data sheet (microphone preamplifier)  
 https://cdn-shop.adafruit.com/datasheets/MAX4465-MAX4469.pdf
 
